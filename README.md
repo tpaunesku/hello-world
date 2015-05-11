@@ -1,2 +1,2 @@
 # hello-world
-oktopod
+oktopodi su slatki
